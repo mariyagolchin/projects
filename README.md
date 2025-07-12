@@ -44,6 +44,25 @@
 - K Naseri, M Golchinpour, *"Similarity detection between modern human genome and their ancestors' DNA sequences by Deep Learning"*, 1st International and 10th National Iranian Conference on Bioinformatics, Kish, Iran (Poster).
 
 
+# Publications & Gene Regulation Research Projects
+
+- **M Golchinpour**, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.  
+  *"Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)"*  
+  Private link: [TFBS-Prediction](https://github.com/mariyagolchin/TFBS-Prediction)
+
+- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
+  *"Identification of cooperative transcription factor binding in granulosa cells during human ovarian aging using single-nuclei multi-omics analyses"*  
+  25th Royan International Congress on Reproductive Biomedicine, Royan International Twin Congress, Tehran, Iran (submitted).
+
+- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
+  *"Dissecting the impact of smoking on epigenetic mechanisms that influence Lung Cancer susceptibility"*  
+  The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
+
+- **K Naseri**, **M Golchinpour**.  
+  *"Similarity detection between modern human genome and their ancestors' DNA sequences by Deep Learning"*  
+  1st International and 10th National Iranian Conference on Bioinformatics, Kish, Iran (Poster).
+
+
 # Research Projects Pursued Out of Personal Interest
 
 - **[Analyzing the Adult Mouse Brain by scATAC-seq Data](https://github.com/mariyagolchin/Analyzing-adult-mouse-brain-scATAC-seq-Compiled-August-20-2024?tab=readme-ov-file)**  
