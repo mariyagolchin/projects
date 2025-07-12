@@ -57,33 +57,28 @@
 - **[Deep Learning in Keras](https://github.com/mariyagolchin/Deep-Learning-in-Keras-Tutorial)**
 
 
-# Certifications and Specialized Courses
+# Specialized Courses
 
-### May 2025
+Please check my full list of certifications on my [LinkedIn Certifications](https://www.linkedin.com/in/mariyagolchinpour/details/certifications/) page.
+
 **Introduction to Next-Generation Sequencing (NGS)** – Tehran University of Medical Sciences, Immunology Student Association
-
-### April 2022
 **Algorithms for DNA Sequencing** – Johns Hopkins University (Coursera)  
 Grade: 91.42%
 
-### April 2022
 **Introduction to Genomic Technologies** – Johns Hopkins University (Coursera)  
 Grade: 82.50%
 
-### May 2022
 **Machine Learning Models in Science** – LearnQuest (Coursera)  
 Grade: 94%
-
-### May 2022
+ 
 **Python for Genomic Data Science** – Johns Hopkins University (Coursera)  
 Grade: 82.40%
 
-### May 2022
+
 **Introduction to Data Science and scikit-learn in Python** – LearnQuest (Coursera)  
 Grade: 93.37%
 
-### May 2022
+
 **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI, Stanford University  
 Grade: 100%
 
-- 
