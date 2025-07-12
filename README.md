@@ -74,10 +74,8 @@ Grade: 94%
 **Python for Genomic Data Science** – Johns Hopkins University (Coursera)  
 Grade: 82.40%
 
-
 **Introduction to Data Science and scikit-learn in Python** – LearnQuest (Coursera)  
 Grade: 93.37%
-
 
 **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI, Stanford University  
 Grade: 100%
