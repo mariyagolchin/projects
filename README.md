@@ -37,7 +37,8 @@
 
 - **[Predicting Transcription Factor Binding Sites (TFBS) Using Deep Learning (in Progress)](https://github.com/mariyagolchin/TFBS-Prediction)**  
   Supervisor: Dr. Alireza Fotuhi Siahpirani  
-
+- **[Transcription Factor Binding Site (TFBS) Prediction](https://github.com/mariyagolchin/TFBS-Prediction)**
+- 
 
 # Research Projects Pursued Out of Personal Interest
 
@@ -46,19 +47,43 @@
 - **[Labeling and Clustering of scRNA-seq Data Using Seurat and SingleR](https://github.com/mariyagolchin/LableCells_SingleR)**  
 - **[Inference of Gene Regulatory Networks from Expression Data Using GENIE3](https://github.com/mariyagolchin/GENIE3_GRN-Inference)**  
 - **[Single Cell RNA-seq Analysis in R Using the Seurat Package](https://github.com/mariyagolchin/scRNA-seq-analysis-with-Seurat)**  
-
-- **[Transcription Factor Binding Site (TFBS) Prediction](https://github.com/mariyagolchin/TFBS-Prediction)**  
 - **[RNA-Seq Analysis Using DESeq2](https://github.com/mariyagolchin/RNAseq_analysis)**  
 - **[A Primer on Deep Learning in Genomics](https://github.com/mariyagolchin/A-Primer-on-Deep-Learning-in-Genomics)**  
-
 - **[Genomic Data Science - Biopython](https://github.com/mariyagolchin/Python-for-Genomic-Data-Science/blob/main/Python_for_Genomic_Data_Science.ipynb)**  
-
 - **[Breast Cancer Classification Using a Support Vector Machine](https://github.com/mariyagolchin/Breast-Cancer-Classification-Using-a-Support-Vector-Machine?tab=readme-ov-file)**  
-
-### June 2020
 - **[Algorithms for DNA Sequencing by Johns Hopkins University](https://github.com/mariyagolchin/Algorithms-for-DNA-Sequencing-Ben-Langmead)**  
 - **[Python and Bioinformatics](https://github.com/mariyagolchin/Python-and-Bioinformatics)**  
 - **[Intermediate Pandas: Python Library for Data Science](https://github.com/mariyagolchin/IntermediatePandasPythonLibraryforDataScience)**  
-
-### May 2018
 - **[Deep Learning in Keras](https://github.com/mariyagolchin/Deep-Learning-in-Keras-Tutorial)**
+
+
+# Certifications and Specialized Courses
+
+### May 2025
+**Introduction to Next-Generation Sequencing (NGS)** – Tehran University of Medical Sciences, Immunology Student Association
+
+### April 2022
+**Algorithms for DNA Sequencing** – Johns Hopkins University (Coursera)  
+Grade: 91.42%
+
+### April 2022
+**Introduction to Genomic Technologies** – Johns Hopkins University (Coursera)  
+Grade: 82.50%
+
+### May 2022
+**Machine Learning Models in Science** – LearnQuest (Coursera)  
+Grade: 94%
+
+### May 2022
+**Python for Genomic Data Science** – Johns Hopkins University (Coursera)  
+Grade: 82.40%
+
+### May 2022
+**Introduction to Data Science and scikit-learn in Python** – LearnQuest (Coursera)  
+Grade: 93.37%
+
+### May 2022
+**Supervised Machine Learning: Regression and Classification** – DeepLearning.AI, Stanford University  
+Grade: 100%
+
+- 
