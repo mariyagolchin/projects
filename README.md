@@ -2,7 +2,7 @@
 # Bioinformatics Coursework Projects
 
 - **[Mathematical Foundations of Bioinformatics in R](https://github.com/mariyagolchin/MFB-R-Programming-1/blob/main/HW_P01.pdf)**  
-  Supervisor: Dr. Hesam Montazeri  
+  Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani
 - **[Developing an R Function from Scratch for Oncoplot Generation and Comparison with maftools](https://github.com/mariyagolchin/MFB-R-Programming-2/blob/main/HW_P02.pdf)**  
   Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani
 - **[TCGA Data Analysis and Uniform Distribution in R](https://github.com/mariyagolchin/MFB-R-Programming-4/blob/main/HW_P04.pdf)**  
@@ -12,7 +12,7 @@
   - Part A: Downloading, Analyzing, and Quality Control of *E. coli* Whole Genome Sequencing (WGS) Data  
   - Part B: De novo Genome Assembly  
   - Part C: Read Mapping and Variant Calling  
-  Supervisor: Dr. Hesam Montazeri  
+  Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani 
 - **[RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/AIB_proj2_1402.pdf)**  
   - Part A: Quality Control and Read Trimming  
   - Part B: Read Mapping to Reference Genome  
@@ -33,12 +33,27 @@
   Supervisor: Dr. Kaveh Kavousi, TA: Karim Rahimian  
 
 
-# Gene Regulation Research Projects Relevant to My Thesis
+# Publications: Gene Regulation Research Projects Relevant to My Thesis 
 
-- **[Predicting Transcription Factor Binding Sites (TFBS) Using Deep Learning (in Progress)](https://github.com/mariyagolchin/TFBS-Prediction)**  
-  Supervisor: Dr. Alireza Fotuhi Siahpirani  
-- **[Transcription Factor Binding Site (TFBS) Prediction](https://github.com/mariyagolchin/TFBS-Prediction)**
-- 
+- **[Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)](https://github.com/mariyagolchin/TFBS-Prediction)**  
+
+- **In Progress**  
+  M Golchinpour, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.  
+  *Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification.*
+
+ - **ICB13, 2025**  
+  M Golchinpour, A Fotuhi Siahpirani, Z Salehi *Identification of cooperative transcription factor binding in granulosa cells during human
+ovarian aging using single-nuclei multi-omics analyses*, 25th Royan International Congress on Reproductive Biomedicine, Royan International Twin Congress, Tehran, Iran (submitted).
+
+- **ICB13, 2025**  
+  M Golchinpour, A Fotuhi Siahpirani, Z Salehi *Dissecting the impact of smoking on epigenetic mechanisms that influence Lung Cancer susceptibility.*  
+  The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
+
+- **ICB-10, 2022**  
+  K Naseri, M Golchinpour.  
+  *Similarity detection between modern human genome and their ancestors' DNA sequences by Deep Learning.*  
+  1st International and 10th National Iranian Conference on Bioinformatics, Kish, Iran (Poster).
+
 
 # Research Projects Pursued Out of Personal Interest
 
