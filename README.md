@@ -1,2 +1,68 @@
 # projects
 projects
+# Genomic Projects
+
+### Fall 2022
+- **[Mathematical Foundations of Bioinformatics in R](https://github.com/mariyagolchin/MFB-R-Programming-1/blob/main/HW_P01.pdf)**  
+  Supervisor: Dr. Hesam Montazeri  
+- **[Developing an R Function from Scratch for Oncoplot Generation and Comparison with maftools](https://github.com/mariyagolchin/MFB-R-Programming-2/blob/main/HW_P02.pdf)**  
+  Supervisor: Dr. Hesam Montazeri  
+- **[TCGA Data Analysis and Uniform Distribution in R](https://github.com/mariyagolchin/MFB-R-Programming-4/blob/main/HW_P04.pdf)**  
+  Supervisor: Dr. Hesam Montazeri  
+
+### Spring 2023
+- **[Read Mapping and Genome Assembly](https://github.com/mariyagolchin/Read-mapping-and-genome-assembly/blob/main/Project_questions.pdf)**  
+  - Part A: Downloading, Analyzing, and Quality Control of *E. coli* Whole Genome Sequencing (WGS) Data  
+  - Part B: De novo Genome Assembly  
+  - Part C: Read Mapping and Variant Calling  
+  Supervisor: Dr. Hesam Montazeri  
+- **[RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/AIB_proj2_1402.pdf)**  
+  - Part A: Quality Control and Read Trimming  
+  - Part B: Read Mapping to Reference Genome  
+  - Part C: Constructing Gene Expression Matrix  
+  - Part D: Differential Gene Expression Analysis  
+  - Part E: Gene Ontology (GO) Enrichment Analysis  
+  Supervisor: Dr. Hesam Montazeri  
+- **[Learning Phylogenetic Trees from Multiple Sequence Alignment - COVID Data](https://github.com/mariyagolchin/Learning-Phylogenetic-Trees/blob/main/Project_questions.pdf)**  
+  - Part A: Data Preparation  
+  - Part B: Phylogenetic Analysis  
+  - Part C: Data Visualization  
+  Supervisor: Dr. Hesam Montazeri  
+
+### June 2022
+- **[Predicting pIC50 for Alzheimer’s Disease using Machine Learning and ChEMBL](https://github.com/mariyagolchin/Predicting-PIC50-with-machine-learning)**  
+  Supervisor: Dr. Sajjad Gharaghani  
+
+### Fall 2023
+- **[Design and Implementation of a Bioinformatics Web Portal Inspired by cBioPortal Using Django](https://github.com/mariyagolchin/Cbioportal)**  
+  Supervisor: Dr. Kaveh Kavousi, TA: Karim Rahimian  
+
+### June 2024 – Present
+- **[Predicting Transcription Factor Binding Sites (TFBS) Using Deep Learning (in Progress)](https://github.com/mariyagolchin/TFBS-Prediction)**  
+  Supervisor: Dr. Alireza Fotuhi Siahpirani  
+
+### December 2024
+- **[Analyzing the Adult Mouse Brain by scATAC-seq Data](https://github.com/mariyagolchin/Analyzing-adult-mouse-brain-scATAC-seq-Compiled-August-20-2024?tab=readme-ov-file)**  
+- **[Epigenetic Traits Reflected in Chromatin Accessibility of Aged Hematopoietic Stem Cells Analyzed by scATAC-seq Using R](https://github.com/mariyagolchin/implementing-Epigenetic-traits-inscribed-in-chromatin-accessibility-in-aged-hematopoietic-stem-cells/tree/main)**  
+- **[Labeling and Clustering of scRNA-seq Data Using Seurat and SingleR](https://github.com/mariyagolchin/LableCells_SingleR)**  
+- **[Inference of Gene Regulatory Networks from Expression Data Using GENIE3](https://github.com/mariyagolchin/GENIE3_GRN-Inference)**  
+- **[Single Cell RNA-seq Analysis in R Using the Seurat Package](https://github.com/mariyagolchin/scRNA-seq-analysis-with-Seurat)**  
+
+### May 2024
+- **[Transcription Factor Binding Site (TFBS) Prediction](https://github.com/mariyagolchin/TFBS-Prediction)**  
+- **[RNA-Seq Analysis Using DESeq2](https://github.com/mariyagolchin/RNAseq_analysis)**  
+- **[A Primer on Deep Learning in Genomics](https://github.com/mariyagolchin/A-Primer-on-Deep-Learning-in-Genomics)**  
+
+### September 2022
+- **[Genomic Data Science - Biopython](https://github.com/mariyagolchin/Python-for-Genomic-Data-Science/blob/main/Python_for_Genomic_Data_Science.ipynb)**  
+
+### June 2021
+- **[Breast Cancer Classification Using a Support Vector Machine](https://github.com/mariyagolchin/Breast-Cancer-Classification-Using-a-Support-Vector-Machine?tab=readme-ov-file)**  
+
+### June 2020
+- **[Algorithms for DNA Sequencing by Johns Hopkins University](https://github.com/mariyagolchin/Algorithms-for-DNA-Sequencing-Ben-Langmead)**  
+- **[Python and Bioinformatics](https://github.com/mariyagolchin/Python-and-Bioinformatics)**  
+- **[Intermediate Pandas: Python Library for Data Science](https://github.com/mariyagolchin/IntermediatePandasPythonLibraryforDataScience)**  
+
+### May 2018
+- **[Deep Learning in Keras](https://github.com/mariyagolchin/Deep-Learning-in-Keras-Tutorial)**
