@@ -37,12 +37,9 @@
 
 - **[Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)](https://github.com/mariyagolchin/TFBS-Prediction)**  
 
-- **In Progress**  
-  M Golchinpour, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.  
-  *Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification.*
+- **In Progress**, M Golchinpour, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.*Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification.*
 
- - **ICB13, 2025**  
-  M Golchinpour, A Fotuhi Siahpirani, Z Salehi *Identification of cooperative transcription factor binding in granulosa cells during human
+ - **ICB13, 2025**, M Golchinpour, A Fotuhi Siahpirani, Z Salehi *Identification of cooperative transcription factor binding in granulosa cells during human
 ovarian aging using single-nuclei multi-omics analyses*, 25th Royan International Congress on Reproductive Biomedicine, Royan International Twin Congress, Tehran, Iran (submitted).
 
 - **ICB13, 2025**  
