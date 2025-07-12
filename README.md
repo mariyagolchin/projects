@@ -33,7 +33,7 @@
   Supervisor: Dr. Kaveh Kavousi, TA: Karim Rahimian  
 
 
-# Publications: Gene Regulation Research Projects Relevant to My Thesis 
+# Publications & Gene Regulation Research Projects 
 
 - **[Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)](https://github.com/mariyagolchin/TFBS-Prediction)**  
 
