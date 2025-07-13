@@ -1,3 +1,17 @@
+# Publications & Gene Regulation Research Projects 
+
+- **M Golchinpour**, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.  
+  *"Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)"*  
+  Private link: [TFBS-Prediction](https://github.com/mariyagolchin/TFBS-Prediction)
+
+- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
+  *"Identification of cooperative transcription factor binding in granulosa cells during human ovarian aging using single-nuclei multi-omics analyses"*  
+  25th Royan International Congress on Reproductive Biomedicine, Royan International Twin Congress, Tehran, Iran (submitted).
+
+- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
+  *"Dissecting the impact of smoking on epigenetic mechanisms that influence Lung Cancer susceptibility"*  
+  The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
+
 
 # Bioinformatics Coursework Projects
 
@@ -31,21 +45,6 @@
 
 - **[Design and Implementation of a Bioinformatics Web Portal Inspired by cBioPortal Using Django](https://github.com/mariyagolchin/Cbioportal)**  
   Supervisor: Dr. Kaveh Kavousi, TA: Karim Rahimian  
-
-
-# Publications & Gene Regulation Research Projects 
-
-- **M Golchinpour**, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.  
-  *"Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)"*  
-  Private link: [TFBS-Prediction](https://github.com/mariyagolchin/TFBS-Prediction)
-
-- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
-  *"Identification of cooperative transcription factor binding in granulosa cells during human ovarian aging using single-nuclei multi-omics analyses"*  
-  25th Royan International Congress on Reproductive Biomedicine, Royan International Twin Congress, Tehran, Iran (submitted).
-
-- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
-  *"Dissecting the impact of smoking on epigenetic mechanisms that influence Lung Cancer susceptibility"*  
-  The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
 
 
 
