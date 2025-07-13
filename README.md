@@ -43,7 +43,7 @@ This project reviews and implements computational strategies for predicting tran
   Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani
 - **[RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/)**  
   Supervisor: Dr. Hesam Montazeri  - Dr.Alireza Fotuhi Siahpirani
-- **[Learning Phylogenetic Trees from Multiple Sequence Alignment - COVID Data](https://github.com/mariyagolchin/Learning-Phylogenetic-Trees/blob/main/Project_questions.pdf)**  
+- **[Learning Phylogenetic Trees from Multiple Sequence Alignment - COVID Data](https://github.com/mariyagolchin/-Learning-Phylogenetic-Trees/tree/main)**  
   Supervisor: Dr. Hesam Montazeri   - Dr.Alireza Fotuhi Siahpirani
 - **[Predicting pIC50 for Alzheimer’s Disease using Machine Learning and ChEMBL](https://github.com/mariyagolchin/Predicting-PIC50-with-machine-learning)**  
   Supervisor: Dr. Sajjad Gharaghani  
