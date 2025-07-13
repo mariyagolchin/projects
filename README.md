@@ -1,7 +1,7 @@
 # Gene Regulation Research Projects 
 ## 1. Impact of Smoking on Epigenetic Mechanisms in Lung Cancer Susceptibility  
 **Authors:** M. Golchinpour, A. Fotuhi Siahpirani, Z. Salehi  
-**Conference:** Presented at the 4th International Bioinformatics Conference (ICB13), Zanjan, Iran  
+**Conference:** The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
 **Description:**  
 To assess how smoking, as an environmental factor, affects lung cancer susceptibility, we reanalyzed a publicly available multiome dataset (GSE241468) profiling transcriptome and chromatin accessibility in 117,911 lung cells from smokers and never-smokers. Our analysis revealed differences in chromatin accessibility and gene expression, along with enrichment of transcription factor binding motifs in smoking-responsive regions, highlighting cell-type-specific elements linked to increased cancer risk.  
 📄 [Poster PDF](https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf)
