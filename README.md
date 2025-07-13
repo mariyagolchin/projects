@@ -39,28 +39,16 @@ This project reviews and implements computational strategies for predicting tran
   Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani
 - **[TCGA Data Analysis and Uniform Distribution in R](https://github.com/mariyagolchin/MFB-R-Programming-4/blob/main/HW_P04.pdf)**  
   Supervisor: Dr. Hesam Montazeri  - Dr.Alireza Fotuhi Siahpirani 
-
-- **[Read Mapping and Genome Assembly](https://github.com/mariyagolchin/Read-mapping-and-genome-assembly/blob/main/Project_questions.pdf)**  
-  - Part A: Downloading, Analyzing, and Quality Control of *E. coli* Whole Genome Sequencing (WGS) Data  
-  - Part B: De novo Genome Assembly  
-  - Part C: Read Mapping and Variant Calling  
-  Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani 
-- **[RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/AIB_proj2_1402.pdf)**  
-  - Part A: Quality Control and Read Trimming  
-  - Part B: Read Mapping to Reference Genome  
-  - Part C: Constructing Gene Expression Matrix  
-  - Part D: Differential Gene Expression Analysis  
-  - Part E: Gene Ontology (GO) Enrichment Analysis  
-  Supervisor: Dr. Hesam Montazeri  - Dr.Alireza Fotuhi Siahpirani 
+- **[Read Mapping and Genome Assembly](https://github.com/mariyagolchin/Read-mapping-and-genome-assembly/)**  
+  Supervisor: Dr. Hesam Montazeri - Dr.Alireza Fotuhi Siahpirani
+- **[RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/)**  
+  Supervisor: Dr. Hesam Montazeri  - Dr.Alireza Fotuhi Siahpirani
 - **[Learning Phylogenetic Trees from Multiple Sequence Alignment - COVID Data](https://github.com/mariyagolchin/Learning-Phylogenetic-Trees/blob/main/Project_questions.pdf)**  
   Supervisor: Dr. Hesam Montazeri   - Dr.Alireza Fotuhi Siahpirani
-
 - **[Predicting pIC50 for Alzheimer’s Disease using Machine Learning and ChEMBL](https://github.com/mariyagolchin/Predicting-PIC50-with-machine-learning)**  
   Supervisor: Dr. Sajjad Gharaghani  
-
 - **[Design and Implementation of a Bioinformatics Web Portal Inspired by cBioPortal Using Django](https://github.com/mariyagolchin/Cbioportal)**  
   Supervisor: Dr. Kaveh Kavousi, TA: Karim Rahimian  
-
 
 
 # Research Projects Pursued Out of Personal Interest
