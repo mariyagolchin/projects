@@ -53,9 +53,6 @@ This project reviews and implements computational strategies for predicting tran
   - Part E: Gene Ontology (GO) Enrichment Analysis  
   Supervisor: Dr. Hesam Montazeri  - Dr.Alireza Fotuhi Siahpirani 
 - **[Learning Phylogenetic Trees from Multiple Sequence Alignment - COVID Data](https://github.com/mariyagolchin/Learning-Phylogenetic-Trees/blob/main/Project_questions.pdf)**  
-  - Part A: Data Preparation  
-  - Part B: Phylogenetic Analysis  
-  - Part C: Data Visualization  
   Supervisor: Dr. Hesam Montazeri   - Dr.Alireza Fotuhi Siahpirani
 
 - **[Predicting pIC50 for Alzheimer’s Disease using Machine Learning and ChEMBL](https://github.com/mariyagolchin/Predicting-PIC50-with-machine-learning)**  
