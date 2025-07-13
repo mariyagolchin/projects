@@ -1,18 +1,35 @@
-# Publications & Gene Regulation Research Projects 
+# Gene Regulation Research Projects 
+## 1. Impact of Smoking on Epigenetic Mechanisms in Lung Cancer Susceptibility  
+**Authors:** M. Golchinpour, A. Fotuhi Siahpirani, Z. Salehi  
+**Conference:** Presented at the 4th International Bioinformatics Conference (ICB13), Zanjan, Iran  
+**Description:**  
+To assess how smoking, as an environmental factor, affects lung cancer susceptibility, we reanalyzed a publicly available multiome dataset (GSE241468) profiling transcriptome and chromatin accessibility in 117,911 lung cells from smokers and never-smokers. Our analysis revealed differences in chromatin accessibility and gene expression, along with enrichment of transcription factor binding motifs in smoking-responsive regions, highlighting cell-type-specific elements linked to increased cancer risk.  
+📄 [Poster PDF](https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf)
 
-- **M Golchinpour**, M Dousti, F Reisi, L Shafaghati, Z Bayat, Z Salehi, A Fotuhi Siahpirani.  
-  *"Recent Advances in Computational Approaches for Transcription Factor Binding Site Identification (in Progress)"*  
-  Private link: [TFBS-Prediction](https://github.com/mariyagolchin/TFBS-Prediction)
+---
 
-- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
-  *"Identification of cooperative transcription factor binding in granulosa cells during human ovarian aging using single-nuclei multi-omics analyses"*  
-  25th Royan International Congress on Reproductive Biomedicine, Royan International Twin Congress, Tehran, Iran (submitted).
+## 2. Cooperative Transcription Factor Binding in Ovarian Aging  
+**Authors:** M. Golchinpour, A. Fotuhi Siahpirani, Z. Salehi  
+**Conference:** 25th Royan International Congress on Reproductive Biomedicine, Tehran, Iran (submitted)  
+**Description:**  
+We analyzed single-nuclei multi-omics data (GSE202601) from young and aged human ovaries to identify cooperative transcription factors regulating gene expression in granulosa cells. The study mapped 7,262 differentially accessible regions and 4,514 target genes, followed by motif scanning using 959 PWMs. Enrichment analysis revealed over 180,000 significant TF co-binding interactions, providing a detailed map of combinatorial TF activity in ovarian aging.
 
-- **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
-  *"Dissecting the impact of smoking on epigenetic mechanisms that influence Lung Cancer susceptibility"*  
-  The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
-  https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf
-  
+---
+
+## 3. Review Article: Computational Approaches for Transcription Factor Binding Site Identification  
+**Authors:** M. Golchinpour, M. Dousti, F. Reisi, L. Shafaghati, Z. Bayat, Z. Salehi, A. Fotuhi Siahpirani  
+**Status:** In progress  
+**Description:**  
+Transcription factors play a key role in gene regulation, yet identifying their exact binding sites (TFBSs) remains challenging. This review compiles key studies on TFBS prediction, covering both traditional and modern computational methods, with a special focus on deep learning techniques.
+
+---
+
+## 4. TFBS-Prediction  
+**Authors:** M. Golchinpour, M. Dousti, N. Esfehani, A. Fotuhi Siahpirani  
+**Status:** In progress  
+**Description:**  
+This project implements computational strategies for TFBS prediction using deep learning and motif-based approaches. Based on ChIP-seq and DNase-seq data from K562 and GM12878 cell lines, we generated training sets and applied models like DanQ to evaluate TFBS prediction performance.  
+🔗 [Private Project Link](https://github.com/mariyagolchin/TFBS-Prediction)
 
 
 # Bioinformatics Coursework Projects
