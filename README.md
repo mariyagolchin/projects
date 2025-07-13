@@ -11,6 +11,8 @@
 - **M Golchinpour**, A Fotuhi Siahpirani, Z Salehi.  
   *"Dissecting the impact of smoking on epigenetic mechanisms that influence Lung Cancer susceptibility"*  
   The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
+  https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf
+  
 
 
 # Bioinformatics Coursework Projects
