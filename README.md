@@ -3,7 +3,7 @@
 **Authors:** M. Golchinpour, A. Fotuhi Siahpirani, Z. Salehi  
 **Conference:** The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).
 **Description:**  
-To assess how smoking, as an environmental factor, affects lung cancer susceptibility, we reanalyzed a publicly available multiome dataset (GSE241468) profiling transcriptome and chromatin accessibility in 117,911 lung cells from smokers and never-smokers. Our analysis revealed differences in chromatin accessibility and gene expression, along with enrichment of transcription factor binding motifs in smoking-responsive regions, highlighting cell-type-specific elements linked to increased cancer risk.  
+To assess how smoking, as an environmental factor, affects lung cancer susceptibility, we reanalyzed a publicly available multiome dataset (GSE241468) that profiles transcriptome and chromatin accessibility in 117,911 human lung cells from 4 males and 4 females in each group of smokers and never-smokers (Long et al., 2024). Our analysis identified changes in chromatin accessibility and gene expression between the two groups. We further found enrichment of transcription factor binding motifs in smoking-responsive regulatory regions, highlighting cell-type-specific elements linked to increased lung cancer risk.    
 📄 [Poster PDF](https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf)
 
 ---
@@ -12,7 +12,7 @@ To assess how smoking, as an environmental factor, affects lung cancer susceptib
 **Authors:** M. Golchinpour, A. Fotuhi Siahpirani, Z. Salehi  
 **Conference:** 25th Royan International Congress on Reproductive Biomedicine, Tehran, Iran (submitted)  
 **Description:**  
-We analyzed single-nuclei multi-omics data (GSE202601) from young and aged human ovaries to identify cooperative transcription factors regulating gene expression in granulosa cells. The study mapped 7,262 differentially accessible regions and 4,514 target genes, followed by motif scanning using 959 PWMs. Enrichment analysis revealed over 180,000 significant TF co-binding interactions, providing a detailed map of combinatorial TF activity in ovarian aging.
+To identify cooperative transcription factors co-regulating target genes in granulosa cells during human ovarian aging, we analyzed single-nuclei multi-omics data (GSE202601) from four young and four reproductively aged human ovaries, enabling cell-type-specific dissection of transcriptional regulation. We identified 7262 differentially accessible regions (DARs) specific to GCs and mapped 4514 unique TGs within a 3Mb genomic window. Motif scanning across GC specific DARs was performed using 959 curated position weight matrices (PWMs) from the JASPAR2022 database. All possible motif pairs co-occurring within regulatory regions using enrichment tests with FDR correction (p_fdr < 0.1). Among 458403 TF pairs, 181611 showed significant co-binding interactions. These findings provide a detailed map of combinatorial TF activity in ovarian aging and suggest that coordinated TF interactions play a key role in chromatin remodeling and gene regulation in aging granulosa cells.
 
 ---
 
@@ -20,7 +20,7 @@ We analyzed single-nuclei multi-omics data (GSE202601) from young and aged human
 **Authors:** M. Golchinpour, M. Dousti, F. Reisi, L. Shafaghati, Z. Bayat, Z. Salehi, A. Fotuhi Siahpirani  
 **Status:** In progress  
 **Description:**  
-Transcription factors play a key role in gene regulation, yet identifying their exact binding sites (TFBSs) remains challenging. This review compiles key studies on TFBS prediction, covering both traditional and modern computational methods, with a special focus on deep learning techniques.
+Transcription factors play a key role in regulating gene expression; however, identifying the precise DNA sequences where they bind (TFBSs) remains a significant challenge. Given this challenge, we reviewed key studies in this field, focusing on both traditional and modern computational approaches, especially deep learning techniques.
 
 ---
 
@@ -28,8 +28,8 @@ Transcription factors play a key role in gene regulation, yet identifying their 
 **Authors:** M. Golchinpour, M. Dousti, N. Esfehani, A. Fotuhi Siahpirani  
 **Status:** In progress  
 **Description:**  
-This project implements computational strategies for TFBS prediction using deep learning and motif-based approaches. Based on ChIP-seq and DNase-seq data from K562 and GM12878 cell lines, we generated training sets and applied models like DanQ to evaluate TFBS prediction performance.  
-🔗 [Private Project Link](https://github.com/mariyagolchin/TFBS-Prediction)
+This project reviews and implements computational strategies for predicting transcription factor binding sites (TFBSs), with a focus on deep learning and motif-based approaches. Using ChIP-seq and DNase-seq data from cell lines (K562, GM12878), we generated positive and negative training sets and explored TFBS prediction using models like DanQ.
+ 🔗 Private Project Link: https://github.com/mariyagolchin/TFBS-Prediction
 
 
 # Bioinformatics Coursework Projects
