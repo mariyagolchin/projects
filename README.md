@@ -4,7 +4,7 @@
 **Conference:** The 13th National Conference and the 4th International Bioinformatics Conference, Zanjan, Iran (Poster).<br>
 **Description:**  
 To assess how smoking, as an environmental factor, affects lung cancer susceptibility, we reanalyzed a publicly available multiome dataset (GSE241468) that profiles transcriptome and chromatin accessibility in 117,911 human lung cells from 4 males and 4 females in each group of smokers and never-smokers (Long et al., 2024). Our analysis identified changes in chromatin accessibility and gene expression between the two groups. We further found enrichment of transcription factor binding motifs in smoking-responsive regulatory regions, highlighting cell-type-specific elements linked to increased lung cancer risk.    
-📄 [Poster PDF](https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf)
+📄 [Poster PDF](https://github.com/mariyagolchin/projects/blob/main/Poster_golchinpour.pdf
 
 ---
 
@@ -33,6 +33,10 @@ This project reviews and implements computational strategies for predicting tran
 
  ## 5. My Seminar Presentation
 **Title:** ["Predicting Transcription Factor Binding Sites by Deep Learning"](https://github.com/mariyagolchin/Seminar-Presentation_Predicting-transcription-factor-binding-site-by-deep-learning?tab=readme-ov-file))
+
+
+---
+---
 
 # Bioinformatics Coursework Projects
 
