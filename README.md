@@ -31,8 +31,8 @@ Transcription factors play a key role in regulating gene expression; however, id
 This project reviews and implements computational strategies for predicting transcription factor binding sites (TFBSs), with a focus on deep learning and motif-based approaches. Using ChIP-seq and DNase-seq data from cell lines (K562, GM12878), we generated positive and negative training sets and explored TFBS prediction using models like DanQ.<br>
  🔗 [Private Project Link: TFBS-Prediction](https://github.com/mariyagolchin/TFBS-Prediction)
 
- ## 5. My Seminar Presentation
-**Title:** ["Predicting Transcription Factor Binding Sites by Deep Learning"](https://github.com/mariyagolchin/Seminar-Presentation_Predicting-transcription-factor-binding-site-by-deep-learning?tab=readme-ov-file))
+ ## 5. My PhD Seminar Presentation – Gene Regulation
+**Title:** ["Predicting Transcription Factor Binding Sites by Deep Learning"](https://github.com/mariyagolchin/Seminar-Presentation_Predicting-transcription-factor-binding-site-by-deep-learning?tab=readme-ov-file)
 
 
 ---
