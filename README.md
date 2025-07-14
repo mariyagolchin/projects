@@ -36,7 +36,6 @@ This project reviews and implements computational strategies for predicting tran
 
 
 ---
----
 
 # Bioinformatics Coursework Projects
 
